@@ -1,30 +1,30 @@
 <!-- if you need multiline/carriage return, use a .properties -->
-<!ENTITY prefwindow.title "Einstellungen von FireTray">
+<!ENTITY prefwindow.title "FireTray-Einstellungen">
 
-<!ENTITY NOT_IMPLEMENTED_YET "NOCH NICHT IMPLEMENTIERT">
+<!ENTITY NOT_IMPLEMENTED_YET "NOCH NICHT UMGESETZT">
 
-<!ENTITY windows_options "Windows">
-<!ENTITY icon_options "Icon">
-<!ENTITY mail_options "Mail">
+<!ENTITY windows_options "Fenster">
+<!ENTITY icon_options "Symbol">
+<!ENTITY mail_options "Nachrichten">
 <!ENTITY chat_options "Chat">
 
-<!ENTITY hides_on_close.label "Fenster verstecken, wenn es geschlossen wird">
-<!ENTITY hides_on_close.accesskey "G">
-<!ENTITY hides_on_minimize.label "Fenster verstecken, wenn es minimiert wird">
-<!ENTITY hides_on_minimize.accesskey "M">
-<!ENTITY hides_single_window.label "Jedes Fenster einzeln verstecken">
-<!ENTITY hides_single_window.tooltip "nicht alle Fenster auf einmal">
-<!ENTITY hides_single_window.accesskey "E">
-<!ENTITY hides_last_only.label "Nur letztes Fenster verstecken">
-<!ENTITY hides_last_only.tooltip "ander Fenster werden geschlossen">
-<!ENTITY hides_last_only.accesskey "L">
-<!ENTITY start_hidden.label "Anwendung versteckt starten">
-<!ENTITY start_hidden.accesskey "S">
+<!ENTITY hides_on_close.label "Beim Fensterschließen, in Systemleiste verbergen">
+<!ENTITY hides_on_close.accesskey "s">
+<!ENTITY hides_on_minimize.label "Beim Fensterminimieren, in Systemleiste verbergen">
+<!ENTITY hides_on_minimize.accesskey "m">
+<!ENTITY hides_single_window.label "Jedes Fenster einzeln verbergen">
+<!ENTITY hides_single_window.tooltip "Nicht alle Fenster auf einmal">
+<!ENTITY hides_single_window.accesskey "e">
+<!ENTITY hides_last_only.label "Nur letztes Fenster kann verborgen werden">
+<!ENTITY hides_last_only.tooltip "Andere Fenster werden geschlossen">
+<!ENTITY hides_last_only.accesskey "N">
+<!ENTITY start_hidden.label "Anwendung verborgen in Systemleiste starten">
+<!ENTITY start_hidden.accesskey "A">
 <!ENTITY show_activates.label "Wiederhergestellte Fenster aktivieren">
-<!ENTITY show_activates.tooltip "wiederhergestellte Fenster in den Vordergund stellen und Fokus darauf legen">
-<!ENTITY show_activates.accesskey "A">
-<!ENTITY remember_desktop.label "Fenster zu ihrer ursprünglichen Arbeitsfläche wiederherstellen">
-<!ENTITY remember_desktop.accesskey "W">
+<!ENTITY show_activates.tooltip "Wiederhergestellte Fenster in den Vordergund stellen und Fokus darauf legen">
+<!ENTITY show_activates.accesskey "W">
+<!ENTITY remember_desktop.label "Fenster auf ihre ursprünglichen Arbeitsfläche wiederherstellen">
+<!ENTITY remember_desktop.accesskey "F">
 
 <!ENTITY app_icon_type "Tray-Icon">
 <!ENTITY app_icon_themed.label "Entsprechend dem Desktop-Theme">
